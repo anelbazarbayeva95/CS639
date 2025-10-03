@@ -1,5 +1,6 @@
 # CS639
 Mobile App Development
+
 This repository is created for CS-639: Mobile App Development at Pace University.
 It contains all Android projects developed during the Fall 2025 semester.
 
