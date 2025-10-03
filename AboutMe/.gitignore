@@ -1,0 +1,41 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle / build
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml/
+
+# Local config
+local.properties
+
+# Logs
+*.log
+
+# OS cruft
+.DS_Store
+
+# Keystores
+*.jks
+*.keystore
+
+# APKs in build outputs (we’ll keep only our renamed APK in root)
+app/*.apk
+app/*/outputs/**
