@@ -39,3 +39,6 @@ local.properties
 # APKs in build outputs (we’ll keep only our renamed APK in root)
 app/*.apk
 app/*/outputs/**
+
+# Keep the renamed APK in root
+!aboutmeAnel.apk
